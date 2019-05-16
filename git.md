@@ -1,13 +1,6 @@
-# git_voor_jonge_tieners
+# `git`
 
-Lesmateriaal om git te leren, geschreven voor jonge tieners
-
-## Video's
-
-Onderwerp|YouTube   |Download
----------|----------|--------
-git basis|[hier](https://youtu.be/lzIYHH5JbmM)|[hier](http://richelbilderbeek.nl/git_voor_jonge_tieners.ogv)
-git merge|[hier](https://youtu.be/hXiwmCwcwko)|[hier](http://richelbilderbeek.nl/git_merge.ogv)
+Alles over `git`.
 
 ## Wat is `git`?
 
@@ -43,12 +36,6 @@ Je kunt ook een video bekijken: [YouTube](https://youtu.be/lzIYHH5JbmM), [downlo
 
 Om in te stellen wie je bent:
 
-1) Ook moet je het referentiebeheer schoonmakne
-
-![](referentie_beheer.png)
-
-2) Om in te stellen wie je bent:
-
 ```
 git config --global user.name "richelbilderbeek"; git config --global user.email "richel@richelbilderbeek.nl"
 ```
@@ -61,7 +48,6 @@ Om uit te vinden wie `git` denkt dat je bent:
 ```
 git config --global user.name; git config --global user.email
 ```
-
 
 ## 1. `git clone`: klonen van de repo
 
@@ -158,7 +144,3 @@ git merge develop
 ```
 
 :warning:: `develop` moet geupdate zijn
-
-## Links
-
- * [C++ voor jonge tieners](https://github.com/richelbilderbeek/cpp_voor_jonge_tieners)
