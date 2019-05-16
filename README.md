@@ -2,6 +2,12 @@
 
 Lesmateriaal om git te leren, geschreven voor jonge tieners
 
+## Video's
+
+Onderwerp|YouTube   |Download
+---------|----------|--------
+git merge|[hier](https://youtu.be/hXiwmCwcwko)|[hier](http://richelbilderbeek.nl/git_merge.ogv)
+
 ## Wat is `git`?
 
 `git` is een versiebeheersysteem.
@@ -151,3 +157,7 @@ git merge develop
 ```
 
 :warning:: `develop` moet geupdate zijn
+
+## Links
+
+ * [C++ voor jonge tieners](https://github.com/richelbilderbeek/cpp_voor_jonge_tieners)
