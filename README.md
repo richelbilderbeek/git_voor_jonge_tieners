@@ -41,13 +41,19 @@ Je kunt ook een video bekijken: [YouTube](https://youtu.be/lzIYHH5JbmM), [downlo
 
 ## 0. instellen wie je bent
 
-Om in te stellen wie je bent:
+Om de vorige persoon weg te halen (op Windows):
 
-1) Ook moet je het referentiebeheer schoonmakne
+ * Klik op de Windows toets, type 'Referentiebeheer'
 
 ![](referentie_beheer.png)
 
-2) Om in te stellen wie je bent:
+ * Klik op 'Windows Credentials'
+ * Zoek 'GitHub' en doe daar 'Verwijderen'
+
+
+Om in te stellen wie je bent:
+
+Doe in 'Git Bash':
 
 ```
 git config --global user.name "richelbilderbeek"; git config --global user.email "richel@richelbilderbeek.nl"
@@ -61,7 +67,6 @@ Om uit te vinden wie `git` denkt dat je bent:
 ```
 git config --global user.name; git config --global user.email
 ```
-
 
 ## 1. `git clone`: klonen van de repo
 
