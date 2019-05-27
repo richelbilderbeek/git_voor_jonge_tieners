@@ -167,3 +167,5 @@ git merge develop
 ## Links
 
  * [C++ voor jonge tieners](https://github.com/richelbilderbeek/cpp_voor_jonge_tieners)
+ * [Learn git branching](https://github.com/pcottle/learnGitBranching)
+
