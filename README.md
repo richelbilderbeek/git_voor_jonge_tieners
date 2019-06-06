@@ -7,6 +7,7 @@ Lesmateriaal om git te leren, geschreven voor jonge tieners
 Onderwerp|YouTube   |Download
 ---------|----------|--------
 git basis|[hier](https://youtu.be/lzIYHH5JbmM)|[hier](http://richelbilderbeek.nl/git_voor_jonge_tieners.ogv)
+Een nieuwe branch maken|[hier](https://youtu.be/XXQQjDQS0p4)|[hier](http://richelbilderbeek.nl/git_voor_jonge_tieners_branch_maken.ogv)
 git merge|[hier](https://youtu.be/hXiwmCwcwko)|[hier](http://richelbilderbeek.nl/git_merge.ogv)
 
 ## Wat is `git`?
