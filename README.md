@@ -1,5 +1,9 @@
 # git_voor_jonge_tieners
 
+Branch|[![Travis CI logo](TravisCI.png)](https://travis-ci.org)
+---|---
+`master`|[![Build Status](https://travis-ci.org/richelbilderbeek/git_voor_jonge_tieners.svg?branch=master)](https://travis-ci.org/richelbilderbeek/git_voor_jonge_tieners)
+
 Lesmateriaal om git te leren, geschreven voor jonge tieners
 
 ## Video's
