@@ -35,10 +35,9 @@ Hier een overzichtje:
  * `2.` `git add` en `git commit`: jouw veranderingen opslaan
  * `3.` `git push`: jouw code delen met de rest
  * `4.` `git pull`: jouw code updaten met het werk van de rest
- * `5.` De Daan truuk
- * `6.` `git status`: kijken op welke branch je zit
- * `7.` `git checkout richel`: ga naar jouw branch
- * `8.` `git merge develop`: merge develop naar jouw branch
+ * `5.` `git status`: kijken op welke branch je zit
+ * `6.` `git checkout richel`: ga naar jouw branch
+ * `7.` `git merge develop`: merge develop naar jouw branch
 
 Hieronder wordt het preciezer uitgelegd.
 
@@ -119,18 +118,7 @@ In de folder `djog_nanos_2018` doe je:
 git pull
 ```
 
-## 5. De Daan truuk: jouw veranderingen opslaan.
-
-In de (Hoofd!)folder `djog_nanos_2018` doe je:
-
-```
-start commit.md
-```
-er opent een programma, laat deze doen wat hij moet doen en sluit hem niet af!
-als hij klaar is, dan zie je gepusht! en dan verdwijnt het programma
-je hebt gepusht!
-
-## 6. `git status`: kijken op welke branch je zit
+## 5. `git status`: kijken op welke branch je zit
 
 ![](git_branches.png)
 
@@ -138,7 +126,7 @@ je hebt gepusht!
 git status
 ```
 
-## 7. `git checkout richel`: ga naar jouw branch
+## 6. `git checkout richel`: ga naar jouw branch
 
 
 
@@ -161,7 +149,7 @@ Op `develop` staat de nieuwste versie om onze code.
 
 :warning:: vergeet niet `git pull` te doen 
 
-## 8. `git merge develop`: merge develop naar jouw branch
+## 7. `git merge develop`: merge develop naar jouw branch
 
 In de folder `djog_nanos_2018` doe je, als je op jouw branch zit:
 
