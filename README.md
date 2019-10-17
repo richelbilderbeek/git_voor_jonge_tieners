@@ -41,7 +41,7 @@ Hier een overzichtje:
 
 Hieronder wordt het preciezer uitgelegd.
 
-![Werkwijze git](git.png)
+![git basis](git_basis.png)
 
 Je kunt ook een video bekijken: [YouTube](https://youtu.be/lzIYHH5JbmM), [download](http://richelbilderbeek.nl/git_voor_jonge_tieners.ogv)
 
